@@ -36,6 +36,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or Claude Helper's practices, please create an issue in our GitHub repository [https:://github.com/merteraslan/claudehelper/issues].
+If you have any questions about this Privacy Policy or Claude Helper's practices, please create an issue in our GitHub repository [here](https://github.com/merteraslan/claudehelper/issues).
 
 By using Claude Helper, you agree to the practices described in this Privacy Policy.
